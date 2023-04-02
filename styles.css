@@ -42,6 +42,8 @@ p {
 
 img {
     margin: auto auto;
+    width: 30em;
+    height: auto;
 }
 
 a:link, a:visited, a:active {
